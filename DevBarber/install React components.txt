@@ -1,0 +1,71 @@
+npm install expo
+expo init nome
+npm run android //expo
+
+react-native init nome
+
+EXPO
+
+expo install react-native-maps
+
+expo install styled-components
+
+expo install @react-native-community/geolocation 
+
+expo install react-native-permissions //permissão da localiação
+
+expo install @react-navigation/stack
+
+expo install react-native-swiper
+
+expo install react-native-svg
+
+expo install react-native-svg-transformer
+
+expo install @react-navigation/bottom-tabs
+
+expo install @react-native-community/async-storage	//token de acesso
+
+expo install @react-navigation/native
+
+expo install react-native-reanimated react-native-gesture-handler react-native-screens react-native-safe-area-context @react-native-community/masked-view
+
+expo install redux react-redux redux-persist
+
+NPM
+
+npm install -g create-react-app
+npx create-react-app init nomepp
+
+react-native run-android
+
+npm install @react-navigation/native
+
+npm install react-native-reanimated react-native-gesture-handler react-native-screens react-native-safe-area-context @react-native-community/masked-view
+
+npm install styled-components
+
+npm install @react-native-community/geolocation 
+
+npm install react-native-permissions //permissão da localiação
+
+npm install @react-navigation/stack
+
+npm install react-native-swiper
+
+npm install react-native-svg
+
+npm install react-native-svg-transformer
+
+npm install @react-navigation/bottom-tabs
+
+npm install @react-native-community/async-storage	//token de acesso
+
+npm install react-native-reanimated react-native-gesture-handler react-native-screens react-native-safe-area-context @react-native-community/masked-view
+
+npm install next react react-dom
+
+react-native bundle --platform android --dev false --entry-file index.js --bundle-output android/app/src/main/assets/index.android.bundle --assets-dest android/app/src/main/res
+
+Links:
+https://reactnavigation.org/docs/getting-started/
